@@ -88,5 +88,5 @@ Tableau-Dashboard-Project
 
 ---
 
-## 🏁 Acknowledgments  
+## Acknowledgments  
 This project was inspired by the **Tableau Ultimate Course by Baraa Khatib-Salkini**, focusing on best practices for professional dashboard design and storytelling in Tableau.  
