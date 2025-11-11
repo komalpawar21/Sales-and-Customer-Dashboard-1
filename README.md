@@ -72,7 +72,7 @@ Tableau-Dashboard-Project
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - To analyze **sales and customer performance** effectively  
 - To identify **key business insights** using data visualization  
 - To enhance **decision-making** through interactive dashboards  
