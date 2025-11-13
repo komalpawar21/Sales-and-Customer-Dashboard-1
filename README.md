@@ -70,6 +70,12 @@ Tableau-Dashboard-Project
 └── README.md
 
 
+
+---
+
+## Acknowledgments  
+This project was inspired by the **Tableau Ultimate Course by Baraa Khatib-Salkini**, focusing on best practices for professional dashboard design and storytelling in Tableau.  
+
 ---
 
 ## Objectives
@@ -84,7 +90,6 @@ Tableau-Dashboard-Project
  Bachelor’s in Data Science and Data Analytics  
  Age: 20  
  Passionate about Data Visualization, Analytics, and Business Intelligence  
-
 
 ---
 
