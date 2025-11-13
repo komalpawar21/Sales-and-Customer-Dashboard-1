@@ -86,7 +86,7 @@ This project was inspired by the **Tableau Ultimate Course by Baraa Khatib-Salki
 ---
 
 ## Author  
-**Divyesh Shetye**  
+**Komal Pawar**  
  Bachelor’s in Data Science and Data Analytics  
  Age: 20  
  Passionate about Data Visualization, Analytics, and Business Intelligence  
